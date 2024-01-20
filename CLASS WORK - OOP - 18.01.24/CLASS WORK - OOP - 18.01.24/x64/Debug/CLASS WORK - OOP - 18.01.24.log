@@ -1,0 +1,8 @@
+﻿  CLASS WORK - OOP - 18.01.24.cpp
+D:\C++\C++ OOP\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24.cpp(32,18): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\C++\C++ OOP\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24.cpp(134,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24.cpp(160,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24.cpp(171,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24.cpp(242,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\C++\C++ OOP\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24\CLASS WORK - OOP - 18.01.24.cpp(308,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  CLASS WORK - OOP - 18.01.24.vcxproj -> D:\C++\C++ OOP\CLASS WORK - OOP - 18.01.24\x64\Debug\CLASS WORK - OOP - 18.01.24.exe
