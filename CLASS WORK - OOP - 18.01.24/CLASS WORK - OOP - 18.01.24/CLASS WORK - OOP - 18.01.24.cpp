@@ -10,9 +10,6 @@ class String
 	char* text = nullptr;
 	unsigned int length = 0;
 	unsigned int capacity = 80;
-
-
-
 public:
 	String() : String("", 80) {}
 
@@ -54,7 +51,6 @@ private:
 		strcpy_s(this->text, length + 1, text);
 	}
 public:
-
 	~String()
 	{
 		if (text != nullptr)
